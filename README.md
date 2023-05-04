@@ -23,7 +23,7 @@ Dentro da pasta procurar pelo arquivo executável "Comparador.exe"
 
 Demostrativo do programa executado com o resultado sendo exibido na caixa de texto.
 
-![image](https://user-images.githubusercontent.com/131995399/236324210-b9fbb183-f2ce-4214-8342-4d9063f09a91.png)
+
 
 
 
